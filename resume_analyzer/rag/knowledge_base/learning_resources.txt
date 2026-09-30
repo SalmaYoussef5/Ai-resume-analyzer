@@ -1,0 +1,19 @@
+For learning Python fundamentals, recommended resources include "Python for Everybody" on Coursera and the official Python documentation tutorial. A widely recognized certification is the PCEP (Certified Entry-Level Python Programmer).
+
+For learning FastAPI, the official FastAPI documentation is considered one of the best learning resources available, alongside practical project-based tutorials on platforms like freeCodeCamp.
+
+For SQL and databases, "SQL for Data Science" on Coursera and Mode Analytics' free SQL tutorial are commonly recommended starting points.
+
+For Machine Learning, Andrew Ng's "Machine Learning Specialization" on Coursera is one of the most recommended beginner-to-intermediate courses. For certification, Google's "Machine Learning Certificate" and Microsoft's "Azure AI Fundamentals" are recognized industry credentials.
+
+For Deep Learning, the "Deep Learning Specialization" by Andrew Ng on Coursera and fast.ai's "Practical Deep Learning for Coders" are highly recommended, covering PyTorch and TensorFlow.
+
+For NLP, the Hugging Face NLP Course (free, available on huggingface.co/course) is one of the best practical resources for learning transformers and modern NLP techniques.
+
+For JavaScript and React, freeCodeCamp's JavaScript curriculum and the official React documentation are strong free resources. The "Meta Front-End Developer" Professional Certificate on Coursera is a recognized credential.
+
+For Docker and DevOps basics, Docker's official "Get Started" guide and the "Docker Certified Associate" certification are recommended for practical, job-relevant skills.
+
+For cloud skills, AWS offers the "AWS Certified Cloud Practitioner" as an entry-level certification, while Google offers the "Associate Cloud Engineer" certification - both are well recognized by employers.
+
+For general career development and resume writing, Harvard's free "Resume writing" guides and LinkedIn Learning courses on professional branding are useful supplementary resources.

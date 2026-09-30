@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+bcrypt
+python-jose[cryptography]
+python-multipart
+python-dotenv
+pydantic[email]
+huggingface_hub
+sentence-transformers
+pypdf
+python-docx

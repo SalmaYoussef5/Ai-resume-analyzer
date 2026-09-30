@@ -1,0 +1,25 @@
+Python is a general-purpose programming language widely used in backend development, data science, automation, and AI. It is considered a foundational skill for most tech roles in 2026.
+
+FastAPI is a modern Python web framework used to build REST APIs quickly, with automatic documentation and built-in data validation through Pydantic. It is one of the most in-demand backend frameworks for Python developers.
+
+SQL (Structured Query Language) is used to query and manage relational databases such as PostgreSQL, MySQL, and SQLite. Almost every backend and data role requires solid SQL skills.
+
+Machine Learning (ML) involves building models that learn patterns from data to make predictions. Core ML skills include understanding algorithms like regression, classification, and clustering, along with libraries such as scikit-learn.
+
+Deep Learning (DL) is a subset of machine learning based on neural networks, commonly used for image recognition, natural language processing, and generative AI. Frameworks like PyTorch and TensorFlow are standard tools here.
+
+Natural Language Processing (NLP) focuses on enabling computers to understand and generate human language. It powers chatbots, sentiment analysis, translation, and modern large language model applications.
+
+JavaScript is the core language of web development, used for building interactive frontend interfaces. It is required for almost all frontend and full-stack roles.
+
+React is a popular JavaScript library for building user interfaces through reusable components. It is one of the most requested frontend skills in job postings.
+
+Docker is a containerization tool that packages applications with their dependencies, making deployment consistent across different environments. It is considered an important DevOps-adjacent skill for backend and ML engineers alike.
+
+Git and version control are essential for any development role, allowing teams to collaborate on code and track changes safely.
+
+Cloud platforms such as AWS, Azure, and Google Cloud are increasingly required for deploying and scaling applications, including AI/ML models in production.
+
+Communication and teamwork are critical soft skills valued across all technical roles, especially in agile teams where collaboration with non-technical stakeholders is common.
+
+Problem solving is one of the most valued soft skills in technical interviews, often assessed through coding challenges and system design discussions.

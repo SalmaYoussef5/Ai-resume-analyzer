@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Docket — Career advisor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <div id="nav-root"></div>
+
+    <div class="main">
+      <div class="page-head">
+        <div>
+          <h1>Career advisor</h1>
+          <p>Ask a career question, or get a gap analysis against a specific role.</p>
+        </div>
+      </div>
+
+      <div class="advisor-grid">
+        <div>
+          <h3>Ask a question</h3>
+          <div class="field">
+            <label for="q-resume">Relate this to a résumé (optional)</label>
+            <select id="q-resume"><option value="">— No specific résumé —</option></select>
+          </div>
+          <div class="field">
+            <label for="q-input">Your question</label>
+            <textarea id="q-input" placeholder="e.g. What's the roadmap to become an ML engineer?"></textarea>
+          </div>
+          <button class="btn btn-primary" onclick="askQuestion()">Ask</button>
+
+          <div class="qa-thread" id="qa-thread" style="margin-top: 24px;"></div>
+        </div>
+
+        <div>
+          <h3>Improvement report</h3>
+          <div class="field">
+            <label for="i-resume">Résumé</label>
+            <select id="i-resume"></select>
+          </div>
+          <div class="field">
+            <label for="i-job">Target role (optional)</label>
+            <select id="i-job"><option value="">— General advice —</option></select>
+          </div>
+          <button class="btn btn-brass" onclick="requestImprovement()">Generate report</button>
+
+          <div id="improvement-area"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/api.js"></script>
+  <script src="/js/career.js"></script>
+</body>
+</html>

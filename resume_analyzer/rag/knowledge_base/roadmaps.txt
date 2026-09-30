@@ -1,0 +1,13 @@
+Backend Developer Roadmap: Start with a solid foundation in a programming language such as Python. Learn how HTTP and REST APIs work, then move to a framework like FastAPI or Django. After that, learn relational databases and SQL, followed by authentication concepts (JWT, OAuth). Intermediate developers should learn Docker and basic cloud deployment. Advanced backend developers focus on system design, caching, and scaling databases.
+
+Data Scientist Roadmap: Begin with Python, statistics, and data manipulation libraries like pandas and numpy. Learn data visualization, then move into machine learning fundamentals using scikit-learn. Afterward, study model evaluation techniques and feature engineering. Advanced data scientists specialize in deep learning, big data tools, or MLOps to deploy models into production.
+
+Machine Learning Engineer Roadmap: Start with strong Python and math foundations (linear algebra, probability). Learn classical ML with scikit-learn, then progress to deep learning frameworks like PyTorch. Study model deployment (APIs, Docker), then move into MLOps practices such as model monitoring and retraining pipelines.
+
+NLP Engineer Roadmap: Build a foundation in Python and machine learning, then study classical NLP techniques (tokenization, embeddings, TF-IDF). Progress to transformer-based models and large language models. Practical experience with libraries like Hugging Face Transformers is highly valued, along with understanding of prompt engineering and RAG systems.
+
+Frontend Developer Roadmap: Start with HTML, CSS, and JavaScript fundamentals. Learn a modern framework such as React. Study state management, API integration, and responsive design. Advanced frontend developers learn performance optimization and testing frameworks.
+
+Full-Stack Developer Roadmap: Combine both backend (Python/FastAPI or Node.js) and frontend (JavaScript/React) skills. Full-stack developers should be comfortable with databases, APIs, and basic deployment on both ends of the application.
+
+AI Agent Developer Roadmap: Requires solid Python skills, understanding of LLM APIs, and frameworks like LangChain. Key skills include prompt engineering, tool calling, building multi-agent systems, and implementing RAG pipelines for grounding AI responses in real data.

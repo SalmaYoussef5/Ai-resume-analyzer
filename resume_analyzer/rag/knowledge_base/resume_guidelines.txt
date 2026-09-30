@@ -1,0 +1,17 @@
+A strong resume should start with a concise professional summary (2-3 sentences) that highlights the candidate's role, years of experience, and key strengths, tailored to the specific job being applied for.
+
+Resumes should quantify achievements whenever possible. Instead of writing "worked on backend features," a stronger version would be "built 5 REST API endpoints that reduced response time by 30%."
+
+Technical skills should be grouped clearly (e.g., Languages, Frameworks, Databases, Tools) rather than listed as one long unorganized line, making it easier for recruiters and automated screening systems to scan.
+
+Work experience should be listed in reverse chronological order, with the most recent role first, and should focus on impact and results rather than just listing daily responsibilities.
+
+For candidates with limited work experience, academic projects, internships, freelance work, and personal open-source contributions are valuable substitutes that should be highlighted prominently.
+
+A resume should ideally fit on one page for candidates with less than 10 years of experience, using clear formatting, consistent fonts, and enough white space to remain readable.
+
+Including a link to a GitHub profile, portfolio, or LinkedIn is highly recommended for technical roles, as it gives recruiters concrete evidence of practical skills beyond the resume text.
+
+Avoid generic filler phrases like "hard-working team player" without supporting evidence; instead, back up soft skills with brief examples from real experience.
+
+Tailoring a resume to each job description - by mirroring some of the key skills and terminology mentioned in the posting - significantly increases the chances of passing automated applicant tracking systems (ATS).
